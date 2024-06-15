@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Q1{
     public static void main(String[] args) {
-        int [] marks=new int[6];
+        int [] marks  = new int[6];
         Scanner sc=new Scanner(System.in);
         int count=0;
         double average =0;
